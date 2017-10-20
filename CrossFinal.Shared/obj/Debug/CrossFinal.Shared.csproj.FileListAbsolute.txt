@@ -1,0 +1,12 @@
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/bin/Debug/CrossFinal.Shared.dll
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/bin/Debug/CrossFinal.Shared.pdb
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.csprojResolveAssemblyReference.cache
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.csproj.CoreCompileInputs.cache
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.dll
+/Users/nikolajpognerebko/Projects/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.pdb
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/bin/Debug/CrossFinal.Shared.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/bin/Debug/CrossFinal.Shared.pdb
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.csprojResolveAssemblyReference.cache
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.csproj.CoreCompileInputs.cache
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal.Shared/obj/Debug/CrossFinal.Shared.pdb

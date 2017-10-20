@@ -1,0 +1,12 @@
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/CrossFinal.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/CrossFinal.pdb
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/CrossFinal.Shared.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/Newtonsoft.Json.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/CrossFinal.Shared.pdb
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/bin/Debug/Newtonsoft.Json.xml
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/optimized/
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/CrossFinal.iOS.csprojResolveAssemblyReference.cache
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/CrossFinal.iOS.csproj.CoreCompileInputs.cache
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/CrossFinal.dll
+/Users/andreymosin/Downloads/CrossFinal/CrossFinal/obj/Debug/CrossFinal.pdb
